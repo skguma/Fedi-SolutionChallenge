@@ -1,16 +1,24 @@
 # Google Solution Challenge 2022 : Fedi🔍
+<div>
+<img src="https://img.shields.io/badge/GENDER EQUALITY-FF3A21?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PEACE, JUSTICE AND STRONG INSTITUTIONS-00689D?style=for-the-badge&logoColor=white"/> </div>
+<br><br>
 
 ![fedi](https://user-images.githubusercontent.com/70956926/160648926-7af1486e-82ec-4076-8961-f66a605205e9.png)
 
 ## 💻Project Introduction
 **Find your Face, Fedi**  is a service to help victims of acquaintance insult crimes. 
-A crime called **acquaintance insult** refers to stealing pictures of others without permission and publicly posting them on SNS with sexually insulting words. 
 
+With the development of the Internet, the damage of digital sex crimes is increasing year by year. And most of the victims of digital sex crimes are women.
+According to the results of a survey on cyber violence conducted in South Korea, the type of crime that is most often witnessed in daily life was acquaintance insult.
+
+A crime called **acquaintance insult** refers to stealing pictures of others without permission and publicly posting them on SNS with sexually insulting words. 
 Victims of the crime should recognize the damage, find photos of their damage, track the route, and request the platform to delete them one by one. This is a hard task for an individual to handle, and the number of dedicated personnel in specialized institutions is insufficient.
 
 We can reduce the burden that victims of acquaintance insult crimes have to go through alone. 
-With Fedi, victims of the crime women can post their photos on SNS with more confidence. 
+With Fedi, crime victims women can feel that they are not alone and feel more secure when posting photos on SNS.
 
+<br>
 
 ## ⚙Used Technology
 <p > <b>Front-end</b> </p>
@@ -39,16 +47,20 @@ With Fedi, victims of the crime women can post their photos on SNS with more con
 <div >
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></div>
+<br>
 
 ## 🏚System Architecture
 ![GDSC 데모 영상 자료](https://user-images.githubusercontent.com/70956926/160659507-ac772133-a206-46c7-a7b3-4a3c575d2e54.png)
 - When the user inputs her picture at the front desk, the backend requests the API to the deep learning server to receive the analysis results using the deep learning model and returns the results to the user.
 - UiPath's RPA is used to pre-scrap images, scrap tweets/likes account information in tweets, and report to the platform.
 - The backend is connected to the DB
+<br>
 
 ## 🎥Demo Video Link
 <a href="#">
 <img src=https://user-images.githubusercontent.com/70956926/160649395-cd068ea8-4b90-4b93-b113-67147b5a0145.png /> </a>
+
+<br><br>
 
 ## 🔍How to use?
 ![슬라이드1](https://user-images.githubusercontent.com/70956926/160650044-d160943a-18c1-4ba4-a73b-4d473473f0c0.PNG)
@@ -59,6 +71,8 @@ With Fedi, victims of the crime women can post their photos on SNS with more con
 
 ![슬라이드4](https://user-images.githubusercontent.com/70956926/160650247-61e898aa-d0b5-400f-8662-5a8d257080b3.PNG)
 
+<br>
+
 ## 🏃‍♀️How to run?
 ### ❗Announcement❗
 > Currently, we put dummy data in DB and do not connect with RPA. This is to test the results more clearly and fast.
@@ -68,6 +82,8 @@ With Fedi, victims of the crime women can post their photos on SNS with more con
 > Don't worry, we already tested the connection with RPA in our service😎
 >
 > And also, you can test RPA locally at any time you want. Please refer to the following.
+
+<br>
 
 ### ✨Front-end
 ```
@@ -80,7 +96,11 @@ $ npm install
 $ npm start
 
 ```
+<br>
+
 ### ✨Deep-learning Server
+
+<br>
 
 ### ✨RPA
  1. Read [how to install the UiPATH Studio](https://uipath.tistory.com/81) and download the Studio version
@@ -134,6 +154,7 @@ $ git clone https://github.com/skguma/Fedi-image-scraper.git
 └─Retweets & Likes
   Report the accounts selected by the user on Twitter
 ```
+<br>
 
 ## 🎈Contributor
 - [Hyosin Jang](https://github.com/hyosin-Jang) : Frontend & RPA 
