@@ -21,7 +21,7 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 <br>
 
 ## ⚙Used Technology
-<p > <b>Front-end</b> </p>
+<p > <b>- Front-end</b> </p>
 <div >
 <img src="https://img.shields.io/badge/React Hooks-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Meterial UI-757575?style=flat-square&logo=Material Design&logoColor=white"/>
@@ -29,21 +29,21 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 <img src="https://img.shields.io/badge/Redux thunk-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/></div>
 
-<p > <b>Back-end</b> </p>
+<p > <b>- Back-end</b> </p>
 <div >
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></div>
 
-<p > <b>Deep-learning</b> </p>
+<p > <b>- Deep-learning</b> </p>
 <div>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></div>
 
-<p > <b>RPA</b> </p>
+<p > <b>- RPA</b> </p>
 <div>
 <img src="https://img.shields.io/badge/UiPath-ff0000?style=flat-square&logoColor=white"/></div>
 
-<p > <b>Server</b> </p>
+<p > <b>- Server</b> </p>
 <div >
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></div>
