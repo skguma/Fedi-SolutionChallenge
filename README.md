@@ -73,7 +73,7 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 
 ![슬라이드3](https://user-images.githubusercontent.com/70956926/160650201-42643408-e3fd-456a-bd21-196ff3ef3153.PNG)
 
-![슬라이드4](https://user-images.githubusercontent.com/70956926/160650247-61e898aa-d0b5-400f-8662-5a8d257080b3.PNG)
+![GDSC Github](https://user-images.githubusercontent.com/70956926/161062767-8ffe405e-8b6f-4d8c-8346-dc9c7e0448d0.png)
 
 <br>
 
