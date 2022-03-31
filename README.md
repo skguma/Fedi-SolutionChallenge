@@ -102,9 +102,6 @@ $ npm start
 ```
 <br>
 
-### ✨Deep-learning Server
-
-<br>
 
 ### ✨RPA
  1. Read [how to install the UiPATH Studio](https://uipath.tistory.com/81) and download the Studio version
