@@ -91,7 +91,7 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 
 ### ✨Front-end
 ```
-$ git clone https://github.com/skguma/Fedi-image-scraper.git
+$ git clone https://github.com/skguma/Fedi-front.git
 
 $ cd Fedi-front
 
