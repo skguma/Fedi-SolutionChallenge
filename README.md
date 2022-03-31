@@ -161,6 +161,8 @@ $ git clone https://github.com/skguma/Fedi-image-scraper.git
 <br>
 
 ## 🎈Contributor
-- [Hyosin Jang](https://github.com/hyosin-Jang) : Frontend & RPA 
-- [Hyuna Park](https://github.com/hak2711) : Backend & Training deep-learning model
-- [Suji Yoon](https://github.com/Yoon-Suji) : Backend & Collecting training dataset
+
+| [Hyosin Jang](https://github.com/hyosin-Jang)                                                            | [Hyuna Park](https://github.com/hak2711)                                                                | [Suji Yoon](https://github.com/Yoon-Suji)                                                               |
+|:----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| <img src = "https://user-images.githubusercontent.com/67725652/161052307-b7b10483-5645-4a00-8577-df87eaf6d99c.png" width="70%"/> | <img src = "https://user-images.githubusercontent.com/67725652/161052705-238e0e83-a690-42de-a35f-8f7c9b0e545b.png" width="70%"/> | <img src = "https://user-images.githubusercontent.com/67725652/161052139-41340000-585e-4fc7-b6e9-ab690bb05117.png" width="70%"/> |
+| Frontend & RPA                | Backend & Training deep-learning model                                                                 | Backend & Collecting training dataset                                                    |
