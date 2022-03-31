@@ -89,17 +89,20 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 
 <br>
 
-### ✨Front-end
+### ✨Web application
+
 ```
-$ git clone https://github.com/skguma/Fedi-front.git
+$ git clone --recursive https://github.com/skguma/Fedi-SolutionChallenge.git
 
 $ cd Fedi-front
 
 $ npm install
 
 $ npm start
-
 ```
+
+you can also use `yarn install` and `yarn start` if npm does not work well.
+
 <br>
 
 
