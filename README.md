@@ -58,6 +58,7 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 - When the user inputs her picture at the front desk, the backend requests the API to the deep learning server to receive the analysis results using the deep learning model and returns the results to the user.
 - UiPath's RPA is used to pre-scrap images, scrap tweets/likes account information in tweets, and report to the platform.
 - The backend is connected to the DB
+- We deployed our Backend server on AWS EC2 and Deep-learning server on Microsoft Azure VM
 <br>
 
 ## 🎥Demo Video Link
