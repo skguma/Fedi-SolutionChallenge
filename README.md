@@ -93,7 +93,7 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 ### ✨Web application
 
 ```
-$ git clone --recursive https://github.com/skguma/Fedi-SolutionChallenge.git
+$ git clone --recurs https://github.com/skguma/Fedi-SolutionChallenge.git
 
 $ cd Fedi-SolutionChallenge/Fedi-front
 
