@@ -1,0 +1,9 @@
+[submodule "Fedi-front"]
+	path = Fedi-front
+	url = https://github.com/skguma/Fedi-front.git
+[submodule "Fedi-back"]
+	path = Fedi-back
+	url = https://github.com/skguma/Fedi-back.git
+[submodule "Fedi-Deeplearning"]
+	path = Fedi-Deeplearning
+	url = https://github.com/skguma/Fedi-Deeplearning.git
