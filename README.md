@@ -82,7 +82,7 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 
 ### ✨Web application
 
-You can use our web service in two aways.
+You can use our web service in two ways.
 
  1. Go to https://fedi.link/
 
