@@ -47,7 +47,6 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 <p > <b>- Server</b> </p>
 <div >
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 </div>
@@ -72,7 +71,7 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 
 ![슬라이드2](https://user-images.githubusercontent.com/70956926/160650132-811c1651-bb13-424a-bb1c-91b78a9b8d3a.PNG)
 
-![Slide3](https://user-images.githubusercontent.com/67725652/171832603-01f55b9a-1661-4581-9c1c-975c5b450431.PNG)
+![GDSC Github](https://user-images.githubusercontent.com/67725652/171861115-4fdc61d9-71a3-4494-b47c-5548c0560204.png)
 
 ![Slide4](https://user-images.githubusercontent.com/67725652/171832570-e6db30b0-b26b-408b-aa63-689ef1e24297.PNG)
 
@@ -80,18 +79,16 @@ With Fedi, crime victims women can feel that they are not alone and feel more se
 <br>
 
 ## 🏃‍♀️How to run?
-### ❗Announcement❗
-> Currently, we put dummy data in DB and do not connect with RPA. This is to test the results more clearly and fast.
->
-> When deploying the completed service, we will connect RPA and scrap tweets that correspond to actual acquaintance insult crimes.
->
-> Don't worry, we already tested the connection with RPA in our service😎
->
-> And also, you can test RPA locally at any time you want. Please refer to the following.
+
+### ✨Web application
+
+You can use our web service in two aways.
+
+ 1. Go to https://fedi.link/
 
 <br>
 
-### ✨Web application
+ 2. Run our code on localhost.
 
 ```
 $ git clone --recurse-submodules https://github.com/skguma/Fedi-SolutionChallenge.git
